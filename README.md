@@ -1,2 +1,1 @@
-# Dotnet_Project
-Dotnet_Project
+Student_Management_System
