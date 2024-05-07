@@ -1,0 +1,23 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Update Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <h1 class="text-center">Update Student Data</h1>
+            <form method="post">
+                <div class="form-group">
+                    <label for="name">Current Name:</label>
+                    <input type="text" class="form-control" id="name" name="name" required>
+                </div>
+                <div class="form-group">
+                    <label for="nname">New Name:</label>
+                    <input type="text" class="form-control" id="nname" name="nname" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
