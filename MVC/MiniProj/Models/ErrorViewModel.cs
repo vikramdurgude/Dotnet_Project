@@ -1,6 +1,6 @@
 namespace MiniProj.Models;
 
-public class ErrorViewModel
+public class ErrorViewModel         //ERROR HANDLING SATHI FILE CREATED.
 {
     public string? RequestId { get; set; }
 

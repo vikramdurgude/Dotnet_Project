@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\DAL\\DAL.csproj": {}
+    "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\BOL\\BOL.csproj": {
+    "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\BOL\\BOL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\BOL\\BOL.csproj",
+        "projectUniqueName": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\BOL\\BOL.csproj",
         "projectName": "BOL",
-        "projectPath": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\BOL\\BOL.csproj",
+        "projectPath": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\BOL\\BOL.csproj",
         "packagesPath": "C:\\Users\\Vikram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\BOL\\obj\\",
+        "outputPath": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\BOL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vikram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vikram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,34 +60,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\DAL\\DAL.csproj": {
+    "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\Vikram\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vikram\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vikram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\BOL\\BOL.csproj": {
-                "projectPath": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\BOL\\BOL.csproj"
+              "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\BOL\\BOL.csproj": {
+                "projectPath": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\BOL\\BOL.csproj"
               }
             }
           }
@@ -89,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -116,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

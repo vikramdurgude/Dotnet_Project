@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ELQUbzr50cfcBOPi29DQpgmfswvpPU7PPVCvRLn3KVV6CIdS7JwdxjkuVxZMX75GzQKieIxnwTr0sNxgBoFRw==",
+  "dgSpecHash": "BXY7vOO6CegSBK9IWvLdL1+PRI/CwiRZXZX3GyHkPH95+8k012vI3Eua/0e+lU9q2X3PmGe4fEHFiss5e/qctw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vikram\\Desktop\\Dotnetpratham\\Dotnet\\MVC\\MiniProj\\MiniProj.csproj",
+  "projectFilePath": "C:\\Users\\Vikram\\Desktop\\dotnet_miniproject\\Dotnet_Project\\MVC\\MiniProj\\MiniProj.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vikram\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\Vikram\\.nuget\\packages\\google.protobuf\\3.25.1\\google.protobuf.3.25.1.nupkg.sha512",

@@ -22,12 +22,12 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Insert()
+    public IActionResult Insert() //isse insert ka form create hoga.
     {
         return View();
     }
     [HttpPost]
-    public IActionResult Insert(int idd, string name, string qual)
+    public IActionResult Insert(int idd, string name, string qual)     //this method stores form dtaa in database.
     {
         StudentService ss = new StudentService();
         ss.InsertStudent(idd, name, qual);

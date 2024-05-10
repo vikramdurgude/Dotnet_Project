@@ -17,7 +17,7 @@ public class DBManager
         try
         {
             MySqlDataReader reader = command.ExecuteReader();
-            while (reader.Read())
+            while (reader.Read()) //reader me jo rows hai use one by one read krna hai so this statement used.
             {
                 int sid = int.Parse(reader["id"].ToString());
                 string sname = reader["name"].ToString();

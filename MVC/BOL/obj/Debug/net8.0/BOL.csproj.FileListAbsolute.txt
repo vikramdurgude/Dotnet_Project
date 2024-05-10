@@ -20,3 +20,15 @@ C:\Users\Vikram\Desktop\Dotnetpratham\Dotnet\MVC\BOL\obj\Debug\net8.0\BOL.dll
 C:\Users\Vikram\Desktop\Dotnetpratham\Dotnet\MVC\BOL\obj\Debug\net8.0\refint\BOL.dll
 C:\Users\Vikram\Desktop\Dotnetpratham\Dotnet\MVC\BOL\obj\Debug\net8.0\BOL.pdb
 C:\Users\Vikram\Desktop\Dotnetpratham\Dotnet\MVC\BOL\obj\Debug\net8.0\ref\BOL.dll
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\bin\Debug\net8.0\BOL.deps.json
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\bin\Debug\net8.0\BOL.dll
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\bin\Debug\net8.0\BOL.pdb
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.sourcelink.json
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.dll
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\refint\BOL.dll
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\BOL.pdb
+C:\Users\Vikram\Desktop\dotnet_miniproject\Dotnet_Project\MVC\BOL\obj\Debug\net8.0\ref\BOL.dll
